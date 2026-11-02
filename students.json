@@ -1,0 +1,77 @@
+[
+    {
+        "roll_number": "101",
+        "name": "Aarav Sharma",
+        "marks": {
+            "Maths": 95.0,
+            "Science": 92.0,
+            "English": 88.0,
+            "Computer Science": 96.0,
+            "Social Studies": 90.0
+        },
+        "total": 461.0,
+        "percentage": 92.2,
+        "grade": "A+",
+        "status": "Pass"
+    },
+    {
+        "roll_number": "102",
+        "name": "Diya Patel",
+        "marks": {
+            "Maths": 85.0,
+            "Science": 82.0,
+            "English": 88.0,
+            "Computer Science": 84.0,
+            "Social Studies": 86.0
+        },
+        "total": 425.0,
+        "percentage": 85.0,
+        "grade": "A",
+        "status": "Pass"
+    },
+    {
+        "roll_number": "103",
+        "name": "Rohan Verma",
+        "marks": {
+            "Maths": 75.0,
+            "Science": 72.0,
+            "English": 70.0,
+            "Computer Science": 78.0,
+            "Social Studies": 75.0
+        },
+        "total": 370.0,
+        "percentage": 74.0,
+        "grade": "B",
+        "status": "Pass"
+    },
+    {
+        "roll_number": "104",
+        "name": "Sneha Reddy",
+        "marks": {
+            "Maths": 62.0,
+            "Science": 65.0,
+            "English": 58.0,
+            "Computer Science": 68.0,
+            "Social Studies": 62.0
+        },
+        "total": 315.0,
+        "percentage": 63.0,
+        "grade": "C",
+        "status": "Pass"
+    },
+    {
+        "roll_number": "105",
+        "name": "Kabir Khan",
+        "marks": {
+            "Maths": 45.0,
+            "Science": 32.0,
+            "English": 52.0,
+            "Computer Science": 48.0,
+            "Social Studies": 50.0
+        },
+        "total": 227.0,
+        "percentage": 45.4,
+        "grade": "F",
+        "status": "Fail"
+    }
+]
